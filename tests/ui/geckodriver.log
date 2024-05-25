@@ -1,0 +1,740 @@
+1716338087497	geckodriver	INFO	Listening on 127.0.0.1:62234
+1716338104694	geckodriver	INFO	Listening on 127.0.0.1:62294
+1716338121858	geckodriver	INFO	Listening on 127.0.0.1:62330
+1716338272077	geckodriver	INFO	Listening on 127.0.0.1:62457
+1716338289213	geckodriver	INFO	Listening on 127.0.0.1:62468
+1716338306470	geckodriver	INFO	Listening on 127.0.0.1:62496
+1716338553143	geckodriver	INFO	Listening on 127.0.0.1:51109
+1716338570256	geckodriver	INFO	Listening on 127.0.0.1:51129
+1716338587512	geckodriver	INFO	Listening on 127.0.0.1:51151
+1716338970343	geckodriver	INFO	Listening on 127.0.0.1:51518
+1716338987451	geckodriver	INFO	Listening on 127.0.0.1:51535
+1716339004539	geckodriver	INFO	Listening on 127.0.0.1:51543
+1716339081851	geckodriver	INFO	Listening on 127.0.0.1:51578
+1716339098982	geckodriver	INFO	Listening on 127.0.0.1:51591
+1716414138421	geckodriver	INFO	Listening on 127.0.0.1:55566
+1716414156148	geckodriver	INFO	Listening on 127.0.0.1:55633
+1716414173676	geckodriver	INFO	Listening on 127.0.0.1:55945
+1716414510816	geckodriver	INFO	Listening on 127.0.0.1:56142
+1716414528012	geckodriver	INFO	Listening on 127.0.0.1:56162
+1716414545146	geckodriver	INFO	Listening on 127.0.0.1:56189
+1716414726636	geckodriver	INFO	Listening on 127.0.0.1:56569
+1716414743826	geckodriver	INFO	Listening on 127.0.0.1:56601
+1716414761021	geckodriver	INFO	Listening on 127.0.0.1:56632
+1716414925917	geckodriver	INFO	Listening on 127.0.0.1:56858
+1716414943077	geckodriver	INFO	Listening on 127.0.0.1:56879
+1716414960195	geckodriver	INFO	Listening on 127.0.0.1:56894
+1716415343466	geckodriver	INFO	Listening on 127.0.0.1:57253
+1716415360704	geckodriver	INFO	Listening on 127.0.0.1:57285
+1716415377937	geckodriver	INFO	Listening on 127.0.0.1:57297
+1716415463105	geckodriver	INFO	Listening on 127.0.0.1:57392
+1716415480326	geckodriver	INFO	Listening on 127.0.0.1:57401
+1716415497507	geckodriver	INFO	Listening on 127.0.0.1:57428
+1716415668574	geckodriver	INFO	Listening on 127.0.0.1:57801
+1716415685691	geckodriver	INFO	Listening on 127.0.0.1:57810
+1716415702798	geckodriver	INFO	Listening on 127.0.0.1:57831
+1716415761706	geckodriver	INFO	Listening on 127.0.0.1:57863
+1716415778982	geckodriver	INFO	Listening on 127.0.0.1:57934
+1716415796233	geckodriver	INFO	Listening on 127.0.0.1:57954
+1716416318860	geckodriver	INFO	Listening on 127.0.0.1:50493
+1716416336007	geckodriver	INFO	Listening on 127.0.0.1:50513
+1716416353164	geckodriver	INFO	Listening on 127.0.0.1:50535
+1716416533039	geckodriver	INFO	Listening on 127.0.0.1:50704
+1716416550177	geckodriver	INFO	Listening on 127.0.0.1:50723
+1716416567309	geckodriver	INFO	Listening on 127.0.0.1:50736
+1716417326115	geckodriver	INFO	Listening on 127.0.0.1:51646
+1716417343857	geckodriver	INFO	Listening on 127.0.0.1:51656
+1716417360959	geckodriver	INFO	Listening on 127.0.0.1:51686
+1716417670901	geckodriver	INFO	Listening on 127.0.0.1:51959
+1716417688024	geckodriver	INFO	Listening on 127.0.0.1:51968
+1716417705126	geckodriver	INFO	Listening on 127.0.0.1:51986
+1716418566744	geckodriver	INFO	Listening on 127.0.0.1:52749
+1716418576016	geckodriver	INFO	Listening on 127.0.0.1:52757
+1716418593200	geckodriver	INFO	Listening on 127.0.0.1:52766
+1716418610330	geckodriver	INFO	Listening on 127.0.0.1:52792
+1716418650376	geckodriver	INFO	Listening on 127.0.0.1:52814
+1716418667506	geckodriver	INFO	Listening on 127.0.0.1:52823
+1716418684633	geckodriver	INFO	Listening on 127.0.0.1:52832
+1716419044402	geckodriver	INFO	Listening on 127.0.0.1:53205
+1716419047517	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53206" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofilefdgYGV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716419047780	Marionette	INFO	Marionette enabled
+1716419047836	Marionette	INFO	Listening on port 53214
+WebDriver BiDi listening on ws://127.0.0.1:53206
+Read port: 53214
+1716419047983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53206/devtools/browser/abc2a3c0-0db0-48cc-b23e-f646e95b3085
+1716419058992	Marionette	INFO	Stopped listening on port 53214
+Dynamically enable window occlusion 1
+1716422001099	geckodriver	INFO	Listening on 127.0.0.1:55837
+1716422004211	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55838" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofileKxMn3Y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716422004490	Marionette	INFO	Marionette enabled
+1716422004547	Marionette	INFO	Listening on port 55847
+WebDriver BiDi listening on ws://127.0.0.1:55838
+Read port: 55847
+1716422004695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55838/devtools/browser/f6211723-72d7-4377-8597-b495538fe348
+1716422014011	Marionette	INFO	Stopped listening on port 55847
+Dynamically enable window occlusion 1
+1716422035632	geckodriver	INFO	Listening on 127.0.0.1:55901
+1716422038738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55902" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofilemW7drl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716422039021	Marionette	INFO	Marionette enabled
+1716422039077	Marionette	INFO	Listening on port 55910
+WebDriver BiDi listening on ws://127.0.0.1:55902
+Read port: 55910
+1716422039221	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55902/devtools/browser/2540a434-ca5f-4f76-b818-c7a8d838a898
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.63122bfa.js, line 1: HttpResponseError: 
+1716422069038	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://open.spotifycdn.com/cdn/build/web-player/web-player.63122bfa.js, line 1: Script terminated by timeout at:
+s@https://open.spotifycdn.com/cdn/build/web-player/web-player.63122bfa.js:1:489874
+s@https://open.spotifycdn.com/cdn/build/web-player/web-player.63122bfa.js:1:489808
+hf@https://open.spotifycdn.com/cdn/build/web-player/web-player.63122bfa.js:1:897180
+27417/pv/<@https://open.spotifycdn.com/cdn/build/web-player/web-player.63122bfa.js:1:908436
+pv@https://open.spotifycdn.com/cdn/build/web-player/web-player.63122bfa.js:1:908792
+ga@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:1886324
+Is@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:1900304
+Sc@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:1946395
+_l@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:1934682
+gl@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:1934610
+ml@https://open.spotifycdn.com/cdn/build/web-player/vendor~1716422452502	Marionette	INFO	Stopped listening on port 56236
+Dynamically enable window occlusion 1
+r.257b4960.js:1:1929603
+S@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:2101072
+N@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:2101603
+
+1716422451356	Marionette	INFO	Stopped listening on port 55910
+Dynamically enable window occlusion 1
+1716423209360	geckodriver	INFO	Listening on 127.0.0.1:56928
+1716423212480	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56929" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofileIGWuPu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716423212751	Marionette	INFO	Marionette enabled
+1716423212809	Marionette	INFO	Listening on port 56937
+WebDriver BiDi listening on ws://127.0.0.1:56929
+Read port: 56937
+1716423212960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56929/devtools/browser/1b7e1a64-9be0-41f9-8b27-517820cdd37b
+1716423244200	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1716423623674	Marionette	INFO	Stopped listening on port 56937
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57033" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofile854mQB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716423328228	Marionette	INFO	Marionette enabled
+1716423328286	Marionette	INFO	Listening on port 57042
+WebDriver BiDi listening on ws://127.0.0.1:57033
+Read port: 57042
+1716423328447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57033/devtools/browser/5b3da521-1fdc-44df-9c77-98b6810ef823
+1716423359327	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1716423625214	Marionette	INFO	Stopped listening on port 57042
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57280" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofile59MLtQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716423623218	Marionette	INFO	Marionette enabled
+1716423623294	Marionette	INFO	Listening on port 57289
+WebDriver BiDi listening on ws://127.0.0.1:57280
+Read port: 57289
+1716423623484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57280/devtools/browser/52ba7e11-3223-45df-a9ae-71894cb0ea1d
+1716423654719	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1716424630010	Marionette	INFO	Stopped listening on port 57289
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58060" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofilePHNQLH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716424215942	Marionette	INFO	Marionette enabled
+1716424216011	Marionette	INFO	Listening on port 58069
+WebDriver BiDi listening on ws://127.0.0.1:58060
+Read port: 58069
+1716424216195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58060/devtools/browser/be699a7f-35d6-4ea2-94d7-0805be5ae48a
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.583a1680.js, line 1: HttpResponseError: 
+1716424225679	Marionette	INFO	Stopped listening on port 58069
+JavaScript warning: https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js, line 1: Script terminated by timeout at:
+et@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:6822611
+lt@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:6823209
+58858/i/<@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:6817507
+58858/Un/<@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:6839691
+@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:6840699
+V@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:6818942
+@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:6840686
+v@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:6842472
+@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:6840776
+l@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:6819893
+
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/8k85QBI-qzxmenDv318AZH30/recaptcha__en.js, line 405: Script terminated by timeout at:
+k</c</b.T.onmessage@https://www.gstatic.com/recaptcha/releases/8k85QBI-qzxmenDv318AZH30/recaptcha__en.js:405:316
+
+Dynamically enable window occlusion 1
+1716424632124	geckodriver	INFO	Listening on 127.0.0.1:58451
+1716424635234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58452" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofiletkVkSX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716424635687	Marionette	INFO	Marionette enabled
+1716424635757	Marionette	INFO	Listening on port 58460
+WebDriver BiDi listening on ws://127.0.0.1:58452
+Read port: 58460
+1716424635942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58452/devtools/browser/0da01375-7bbf-4c31-b35e-1b277cb94d7c
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202309.1.0/otBannerSdk.js, line 7: TypeError: _.bannerGroup is undefined
+1716424642921	Marionette	INFO	Stopped listening on port 58460
+JavaScript warning: https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js, line 1: Script terminated by timeout at:
+v@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:2620102
+ve@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:2630245
+ve@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:2629985
+ve@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:2629985
+ye@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:2630902
+13234/S<@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:2956988
+ve@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:2630184
+2601/e.prototype.generateAndInjectStyles@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:2627270
+2601/ke/O/v<@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:2632920
+2601/ke/O/<@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:2632951
+O@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:2633337
+ga@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:1886324
+Es@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:1898732
+Sc@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:1947575
+_l@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:1934682
+gl@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:1934610
+ml@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:1934471
+il@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:1929603
+S@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:2101072
+N@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:2101603
+
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/8k85QBI-qzxmenDv318AZH30/recaptcha__en.js, line 405: Script terminated by timeout at:
+k</c</b.T.onmessage@https://www.gstatic.com/recaptcha/releases/8k85QBI-qzxmenDv318AZH30/recaptcha__en.js:405:316
+
+Dynamically enable window occlusion 1
+1716424725247	geckodriver	INFO	Listening on 127.0.0.1:58606
+1716424728322	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58607" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofilesBDvkI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716424728785	Marionette	INFO	Marionette enabled
+1716424728855	Marionette	INFO	Listening on port 58615
+WebDriver BiDi listening on ws://127.0.0.1:58607
+Read port: 58615
+1716424729029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58607/devtools/browser/d38d86ee-e435-44ea-919a-0706fb68f8c7
+1716424738597	Marionette	INFO	Stopped listening on port 58615
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/8k85QBI-qzxmenDv318AZH30/recaptcha__en.js, line 310: Script terminated by timeout at:
+d<@https://www.gstatic.com/recaptcha/releases/8k85QBI-qzxmenDv318AZH30/recaptcha__en.js:310:295
+@https://www.gstatic.com/recaptcha/releases/8k85QBI-qzxmenDv318AZH30/recaptcha__en.js:1211:53
+
+Dynamically enable window occlusion 1
+1716425312327	geckodriver	INFO	Listening on 127.0.0.1:59158
+1716425315406	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59159" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofilex0fwvv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716425315622	Marionette	INFO	Marionette enabled
+1716425315669	Marionette	INFO	Listening on port 59167
+WebDriver BiDi listening on ws://127.0.0.1:59159
+Read port: 59167
+1716425315781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59159/devtools/browser/d446a5d8-aa7c-45ea-9927-c867e196c531
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.8621480c.js, line 1: HttpResponseError: 
+1716425323577	Marionette	INFO	Stopped listening on port 59167
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/8k85QBI-qzxmenDv318AZH30/recaptcha__en.js, line 310: Script terminated by timeout at:
+d<@https://www.gstatic.com/recaptcha/releases/8k85QBI-qzxmenDv318AZH30/recaptcha__en.js:310:295
+@https://www.gstatic.com/recaptcha/releases/8k85QBI-qzxmenDv318AZH30/recaptcha__en.js:1211:53
+
+Dynamically enable window occlusion 1
+1716425575121	geckodriver	INFO	Listening on 127.0.0.1:59757
+1716425578194	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59758" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofileqej1Hb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716425578409	Marionette	INFO	Marionette enabled
+1716425578455	Marionette	INFO	Listening on port 59767
+WebDriver BiDi listening on ws://127.0.0.1:59758
+Read port: 59767
+1716425578567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59758/devtools/browser/d9879455-36ad-4614-bdd1-866872c62db4
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.8621480c.js, line 1: HttpResponseError: 
+1716425585826	Marionette	INFO	Stopped listening on port 59767
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/8k85QBI-qzxmenDv318AZH30/recaptcha__en.js, line 310: Script terminated by timeout at:
+d<@https://www.gstatic.com/recaptcha/releases/8k85QBI-qzxmenDv318AZH30/recaptcha__en.js:310:295
+@https://www.gstatic.com/recaptcha/releases/8k85QBI-qzxmenDv318AZH30/recaptcha__en.js:1211:53
+
+Dynamically enable window occlusion 1
+1716425650014	geckodriver	INFO	Listening on 127.0.0.1:59935
+1716425653103	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59936" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofileEZ1kps"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716425653312	Marionette	INFO	Marionette enabled
+1716425653358	Marionette	INFO	Listening on port 59944
+WebDriver BiDi listening on ws://127.0.0.1:59936
+Read port: 59944
+1716425653472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59936/devtools/browser/8abb195c-5416-4e75-b521-03410f2b5d3b
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.8621480c.js, line 1: HttpResponseError: 
+1716425663033	Marionette	INFO	Stopped listening on port 59944
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/8k85QBI-qzxmenDv318AZH30/recaptcha__en.js, line 310: Script terminated by timeout at:
+d<@https://www.gstatic.com/recaptcha/releases/8k85QBI-qzxmenDv318AZH30/recaptcha__en.js:310:295
+@https://www.gstatic.com/recaptcha/releases/8k85QBI-qzxmenDv318AZH30/recaptcha__en.js:1211:53
+
+Dynamically enable window occlusion 1
+1716425716445	geckodriver	INFO	Listening on 127.0.0.1:60116
+1716425719520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60117" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofilepueUmP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716425719746	Marionette	INFO	Marionette enabled
+1716425719794	Marionette	INFO	Listening on port 60126
+WebDriver BiDi listening on ws://127.0.0.1:60117
+Read port: 60126
+1716425719914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60117/devtools/browser/a4d65f0d-c507-4beb-873f-9dca1c186bc2
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.8621480c.js, line 1: HttpResponseError: 
+1716425727836	Marionette	INFO	Stopped listening on port 60126
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/8k85QBI-qzxmenDv318AZH30/recaptcha__en.js, line 310: Script terminated by timeout at:
+d<@https://www.gstatic.com/recaptcha/releases/8k85QBI-qzxmenDv318AZH30/recaptcha__en.js:310:295
+@https://www.gstatic.com/recaptcha/releases/8k85QBI-qzxmenDv318AZH30/recaptcha__en.js:1211:53
+
+Dynamically enable window occlusion 1
+1716425875835	geckodriver	INFO	Listening on 127.0.0.1:60334
+1716425878912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60335" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofile6xtIF2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716425879117	Marionette	INFO	Marionette enabled
+1716425879163	Marionette	INFO	Listening on port 60344
+WebDriver BiDi listening on ws://127.0.0.1:60335
+Read port: 60344
+1716425879276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60335/devtools/browser/65128ce6-0649-4dad-b398-69b78ce59d46
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.8621480c.js, line 1: HttpResponseError: 
+1716425886862	Marionette	INFO	Stopped listening on port 60344
+JavaScript warning: https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js, line 1: Script terminated by timeout at:
+o@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:163316
+
+Dynamically enable window occlusion 1
+1716426481582	geckodriver	INFO	Listening on 127.0.0.1:61107
+1716426484703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61108" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofile2mlyu7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716426484911	Marionette	INFO	Marionette enabled
+1716426484956	Marionette	INFO	Listening on port 61119
+WebDriver BiDi listening on ws://127.0.0.1:61108
+Read port: 61119
+1716426485071	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61108/devtools/browser/d386b060-c03b-4cc6-83f8-19380219e6ea
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.8621480c.js, line 1: HttpResponseError: 
+1716426493616	Marionette	INFO	Stopped listening on port 61119
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/8k85QBI-qzxmenDv318AZH30/recaptcha__en.js, line 310: Script terminated by timeout at:
+d<@https://www.gstatic.com/recaptcha/releases/8k85QBI-qzxmenDv318AZH30/recaptcha__en.js:310:295
+@https://www.gstatic.com/recaptcha/releases/8k85QBI-qzxmenDv318AZH30/recaptcha__en.js:1211:53
+
+Dynamically enable window occlusion 1
+1716426916826	geckodriver	INFO	Listening on 127.0.0.1:61898
+1716426919897	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61899" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofilenvi13i"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716426920123	Marionette	INFO	Marionette enabled
+1716426920172	Marionette	INFO	Listening on port 61908
+WebDriver BiDi listening on ws://127.0.0.1:61899
+Read port: 61908
+1716426920286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61899/devtools/browser/2a45dc9b-1455-449f-a85f-0e3b7795bde8
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.8621480c.js, line 1: HttpResponseError: 
+1716426927157	Marionette	INFO	Stopped listening on port 61908
+JavaScript warning: https://open.spotifycdn.com/cdn/build/web-player/web-player.8621480c.js, line 1: Script terminated by timeout at:
+15336/s/<@https://open.spotifycdn.com/cdn/build/web-player/web-player.8621480c.js:1:2237379
+95147/p/</<@https://open.spotifycdn.com/cdn/build/web-player/web-player.8621480c.js:1:1487125
+
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/8k85QBI-qzxmenDv318AZH30/recaptcha__en.js, line 405: Script terminated by timeout at:
+k</c</b.T.onmessage@https://www.gstatic.com/recaptcha/releases/8k85QBI-qzxmenDv318AZH30/recaptcha__en.js:405:316
+
+Dynamically enable window occlusion 1
+1716427176399	geckodriver	INFO	Listening on 127.0.0.1:62311
+1716427179467	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62312" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofilekB6Z6c"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716427179674	Marionette	INFO	Marionette enabled
+1716427179721	Marionette	INFO	Listening on port 62321
+WebDriver BiDi listening on ws://127.0.0.1:62312
+Read port: 62321
+1716427179835	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62312/devtools/browser/94fd24c0-3254-4a4b-b516-9658c8f30aee
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.8621480c.js, line 1: HttpResponseError: 
+1716427187468	Marionette	INFO	Stopped listening on port 62321
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/8k85QBI-qzxmenDv318AZH30/recaptcha__en.js, line 310: Script terminated by timeout at:
+d<@https://www.gstatic.com/recaptcha/releases/8k85QBI-qzxmenDv318AZH30/recaptcha__en.js:310:295
+@https://www.gstatic.com/recaptcha/releases/8k85QBI-qzxmenDv318AZH30/recaptcha__en.js:1211:53
+
+Dynamically enable window occlusion 1
+1716427424079	geckodriver	INFO	Listening on 127.0.0.1:62614
+1716427427174	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62615" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofileY5Fofc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716427427371	Marionette	INFO	Marionette enabled
+1716427427414	Marionette	INFO	Listening on port 62631
+WebDriver BiDi listening on ws://127.0.0.1:62615
+Read port: 62631
+1716427427527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62615/devtools/browser/9a3ee21b-02f1-48a7-92c7-6fbd71f1bc1b
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.8621480c.js, line 1: HttpResponseError: 
+1716427435635	Marionette	INFO	Stopped listening on port 62631
+JavaScript warning: https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js, line 1: Script terminated by timeout at:
+o@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:163316
+
+Dynamically enable window occlusion 1
+1716493117083	geckodriver	INFO	Listening on 127.0.0.1:57401
+1716493120164	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57402" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofileLq9ICO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716493120579	Marionette	INFO	Marionette enabled
+1716493120654	Marionette	INFO	Listening on port 57410
+WebDriver BiDi listening on ws://127.0.0.1:57402
+Read port: 57410
+1716493120812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57402/devtools/browser/dc29a1b0-22d1-46f2-a2ec-4c4570c0fbe6
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.62fea5c8.js, line 1: HttpResponseError: 
+1716493130494	Marionette	INFO	Stopped listening on port 57410
+JavaScript warning: https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js, line 1: Script terminated by timeout at:
+o@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:163316
+
+Dynamically enable window occlusion 1
+1716498727106	geckodriver	INFO	Listening on 127.0.0.1:62894
+1716498730196	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62895" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofileDl3E0a"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716498730401	Marionette	INFO	Marionette enabled
+1716498730447	Marionette	INFO	Listening on port 62913
+WebDriver BiDi listening on ws://127.0.0.1:62895
+Read port: 62913
+1716498730559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62895/devtools/browser/390204aa-dbe0-4566-a8e7-a148eb3c0b15
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.62fea5c8.js, line 1: HttpResponseError: 
+1716498738792	Marionette	INFO	Stopped listening on port 62913
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js, line 605: Script terminated by timeout at:
+X<@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:605:334
+E<@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:422:231
+@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:1219:382
+
+Dynamically enable window occlusion 1
+1716498827716	geckodriver	INFO	Listening on 127.0.0.1:63096
+1716498830814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63097" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofile9vukVz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716498831021	Marionette	INFO	Marionette enabled
+1716498831066	Marionette	INFO	Listening on port 63104
+WebDriver BiDi listening on ws://127.0.0.1:63097
+Read port: 63104
+1716498831178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63097/devtools/browser/bc233f6d-5d1d-4e8f-9ec1-e08e6864cc26
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.62fea5c8.js, line 1: HttpResponseError: 
+1716498838979	Marionette	INFO	Stopped listening on port 63104
+JavaScript warning: https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js, line 1: Script terminated by timeout at:
+o@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:163316
+
+Dynamically enable window occlusion 1
+1716498974784	geckodriver	INFO	Listening on 127.0.0.1:63354
+1716498977861	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63355" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofileuFn9g2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716498978072	Marionette	INFO	Marionette enabled
+1716498978145	Marionette	INFO	Listening on port 63364
+WebDriver BiDi listening on ws://127.0.0.1:63355
+Read port: 63364
+1716498978257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63355/devtools/browser/74b35d71-26ae-4645-bb64-ac06d6bf4b24
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.62fea5c8.js, line 1: HttpResponseError: 
+1716498984551	Marionette	INFO	Stopped listening on port 63364
+JavaScript warning: https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js, line 1: Script terminated by timeout at:
+o@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:163316
+
+Dynamically enable window occlusion 1
+1716499018069	geckodriver	INFO	Listening on 127.0.0.1:63510
+1716499021132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63511" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofilewQcYKh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716499021335	Marionette	INFO	Marionette enabled
+1716499021382	Marionette	INFO	Listening on port 63539
+WebDriver BiDi listening on ws://127.0.0.1:63511
+Read port: 63539
+1716499021497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63511/devtools/browser/a2a06c94-7a5e-46cb-a015-83650ee3bb1c
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.62fea5c8.js, line 1: HttpResponseError: 
+1716499051355	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1716499214930	geckodriver	INFO	Listening on 127.0.0.1:63828
+1716499218010	mozrunner::runner	INFO	Running command: "C:\\P1716499218029	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63832" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Usersconsole.warn: services.settings: Ignoring preference overridconsole.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow byDynamically enable window occlusion 0
+1716499218245	MarioneDynamically enable window occ1716499218295	Marionette	INFO	Listening on port 63845
+WebDriver BiDi listening on ws://127.0.0.1:63829
+Read port: 63845
+1716499218432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63829/devtools/browser/230c084a-57bc-47d9-8082-f6754ddbfcdc
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-JavaScript error: https://open.spotifycdn.com/cdn/build/web-1716499227547	Marionette	INFO	Stopped listening on port 63841716499228082	Marionette	INFO	Stopped listening on port 63846
+JavaScript warning: https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js, line 1: Script terminated by timeout at:
+o@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:163316
+
+Dynamically enable window occlusion 1
+1716500148967	geckodriver	INFO	Listening on 127.0.0.1:65160
+1716500152059	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65161" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofiletS4wMH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716500152278	Marionette	INFO	Marionette enabled
+1716500152324	Marionette	INFO	Listening on port 65170
+WebDriver BiDi listening on ws://127.0.0.1:65161
+Read port: 65170
+1716500152440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65161/devtools/browser/a5b36587-e91c-408b-ac6d-9cbb05464067
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.3d72f116.js, line 1: HttpResponseError: 
+1716500161020	Marionette	INFO	Stopped listening on port 65170
+JavaScript warning: https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js, line 1: Script terminated by timeout at:
+o@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:163316
+
+Dynamically enable window occlusion 1
+1716500200135	geckodriver	INFO	Listening on 127.0.0.1:65336
+1716500203218	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65337" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofileeXhXFF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716500203430	Marionette	INFO	Marionette enabled
+1716500203476	Marionette	INFO	Listening on port 65347
+WebDriver BiDi listening on ws://127.0.0.1:65337
+Read port: 65347
+1716500203590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65337/devtools/browser/27a1a625-0b86-47f4-87e0-4e60903f54f3
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.3d72f116.js, line 1: HttpResponseError: 
+1716500211542	Marionette	INFO	Stopped listening on port 65347
+JavaScript warning: https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js, line 1: Script terminated by timeout at:
+o@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:163316
+
+Dynamically enable window occlusion 1
+1716500285640	geckodriver	INFO	Listening on 127.0.0.1:49153
+1716500288718	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49154" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofileLbIcr3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716500288924	Marionette	INFO	Marionette enabled
+1716500288971	Marionette	INFO	Listening on port 49162
+WebDriver BiDi listening on ws://127.0.0.1:49154
+Read port: 49162
+1716500289084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49154/devtools/browser/5443b2f9-d1b5-45ac-a768-8f29b56da13d
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.3d72f116.js, line 1: HttpResponseError: 
+1716500305920	Marionette	INFO	Stopped listening on port 49162
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js, line 422: Script terminated by timeout at:
+E<@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:422:429
+@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:1219:382
+
+Dynamically enable window occlusion 1
+1716500424939	geckodriver	INFO	Listening on 127.0.0.1:49832
+1716500428024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49833" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofilercBGkV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716500428234	Marionette	INFO	Marionette enabled
+1716500428281	Marionette	INFO	Listening on port 49842
+WebDriver BiDi listening on ws://127.0.0.1:49833
+Read port: 49842
+1716500428397	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49833/devtools/browser/222b9dac-bb1e-4334-9624-0d8dd886cc76
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.3d72f116.js, line 1: HttpResponseError: 
+1716500458251	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1716501744158	Marionette	INFO	Stopped listening on port 49842
+JavaScript warning: https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js, line 1: Script terminated by timeout at:
+t@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:807184
+
+Dynamically enable window occlusion 1
+1716501777370	geckodriver	INFO	Listening on 127.0.0.1:50909
+1716501780480	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50910" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofileDgEiKH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716501780764	Marionette	INFO	Marionette enabled
+1716501780827	Marionette	INFO	Listening on port 50919
+WebDriver BiDi listening on ws://127.0.0.1:50910
+Read port: 50919
+1716501780984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50910/devtools/browser/ae8f0191-aaa0-454c-a118-04935d6d8c5e
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.62fea5c8.js, line 1: HttpResponseError: 
+1716501790749	Marionette	INFO	Stopped listening on port 50919
+JavaScript warning: https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js, line 1: Script terminated by timeout at:
+o@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:163316
+
+Dynamically enable window occlusion 1
+1716505703807	geckodriver	INFO	Listening on 127.0.0.1:53481
+1716505706916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53482" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofileui6lk9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716505707124	Marionette	INFO	Marionette enabled
+1716505707170	Marionette	INFO	Listening on port 53490
+WebDriver BiDi listening on ws://127.0.0.1:53482
+Read port: 53490
+1716505707279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53482/devtools/browser/4a6feb12-03bd-45d4-8a00-1a10a23b1cf9
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.558256b1.js, line 1: HttpResponseError: 
+1716505715595	Marionette	INFO	Stopped listening on port 53490
+JavaScript warning: https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js, line 1: Script terminated by timeout at:
+o@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:163316
+
+Dynamically enable window occlusion 1
+1716505732265	geckodriver	INFO	Listening on 127.0.0.1:53635
+1716505735348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53636" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofile0NbDct"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716505735559	Marionette	INFO	Marionette enabled
+1716505735604	Marionette	INFO	Listening on port 53644
+WebDriver BiDi listening on ws://127.0.0.1:53636
+Read port: 53644
+1716505735714	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53636/devtools/browser/ca8b462b-11b8-4f4f-825d-eafd40fa7690
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.558256b1.js, line 1: HttpResponseError: 
+1716505765580	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1716506198471	geckodriver	INFO	Listening on 127.0.0.1:54181
+1716506201551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54184" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofileFV6GtS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716506201769	Marionette	INFO	Marionette enabled
+1716506201822	Marionette	INFO	Listening on port 54199
+WebDriver BiDi listening on ws://127.0.0.1:54184
+Read port: 54198
+1716506201952	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54184/devtools/browser/ca8464ee-581a-4217-9eba-9182b2db95d4
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.558256b1.js, line 1: HttpResponseError: 
+1716506222346	Marionette	INFO	Stopped listening on port 54199
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js, line 1219: Script terminated by timeout at:
+@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:1219:355
+
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js, line 652: Script terminated by timeout at:
+X</b</<@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:652:295
+L@https://www.gstatic.com/recaptcha/releases/joHA60MeME-PNviL59xVH9zs/recaptcha__en.js:347:160
+
+Dynamically enable window occlusion 1
+1716506459532	geckodriver	INFO	Listening on 127.0.0.1:54647
+1716506462586	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54648" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofileRVMbaB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716506462789	Marionette	INFO	Marionette enabled
+1716506462835	Marionette	INFO	Listening on port 54678
+WebDriver BiDi listening on ws://127.0.0.1:54648
+Read port: 54678
+1716506462947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54648/devtools/browser/39624790-40f1-4e6a-9e69-e4c5385e9cab
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.558256b1.js, line 1: HttpResponseError: 
+1716506481213	Marionette	INFO	Stopped listening on port 54678
+JavaScript warning: https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js, line 1: Script terminated by timeout at:
+o@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:163316
+
+Dynamically enable window occlusion 1
+1716506600472	geckodriver	INFO	Listening on 127.0.0.1:54903
+1716506603545	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54904" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofileqhQf2H"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716506603748	Marionette	INFO	Marionette enabled
+1716506603793	Marionette	INFO	Listening on port 54912
+WebDriver BiDi listening on ws://127.0.0.1:54904
+Read port: 54912
+1716506603905	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54904/devtools/browser/24d2ba47-ce64-4540-b9f6-6c6be16bfb0c
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.558256b1.js, line 1: HttpResponseError: 
+1716506613508	Marionette	INFO	Stopped listening on port 54912
+JavaScript warning: https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js, line 1: Script terminated by timeout at:
+lt@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:6823163
+@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:6831043
+58858/i/<@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:6817507
+z@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:6831514
+v@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:6828578
+
+Dynamically enable window occlusion 1
+1716514934755	geckodriver	INFO	Listening on 127.0.0.1:61736
+1716514937848	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61737" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofileGzmAxg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716514938120	Marionette	INFO	Marionette enabled
+1716514938181	Marionette	INFO	Listening on port 61744
+WebDriver BiDi listening on ws://127.0.0.1:61737
+Read port: 61744
+1716514938333	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61737/devtools/browser/e210b55a-5b5d-4549-9027-5bdc561a38c6
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.a32eed93.js, line 1: HttpResponseError: 
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.a32eed93.js, line 1: HttpResponseError: 
+1716514960989	Marionette	INFO	Stopped listening on port 61744
+JavaScript warning: https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js, line 1: Script terminated by timeout at:
+o@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:163316
+
+Dynamically enable window occlusion 1
+1716515098795	geckodriver	INFO	Listening on 127.0.0.1:62108
+1716515101894	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62109" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofileDRTAQd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716515102155	Marionette	INFO	Marionette enabled
+1716515102215	Marionette	INFO	Listening on port 62116
+WebDriver BiDi listening on ws://127.0.0.1:62109
+Read port: 62116
+1716515102360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62109/devtools/browser/cad67051-9eef-4458-88bc-696f96791d0a
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.a32eed93.js, line 1: HttpResponseError: 
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.a32eed93.js, line 1: HttpResponseError: 
+1716515116081	Marionette	INFO	Stopped listening on port 62116
+JavaScript warning: https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js, line 1: Script terminated by timeout at:
+Mr@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:1881834
+Dr@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:1881738
+Ya@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:1891182
+70548/g/<@https://open.spotifycdn.com/cdn/build/web-player/web-player.a32eed93.js:1:114954
+nc@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:1919121
+bl@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:1939253
+19481/El/<@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:1935855
+S@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:2101072
+N@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:2101603
+
+Dynamically enable window occlusion 1
+1716582066331	geckodriver	INFO	Listening on 127.0.0.1:60179
+1716582069397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60180" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\A753B~1.BOL\\AppData\\Local\\Temp\\rust_mozprofileZHeJEP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716582069639	Marionette	INFO	Marionette enabled
+1716582069692	Marionette	INFO	Listening on port 60187
+WebDriver BiDi listening on ws://127.0.0.1:60180
+Read port: 60187
+1716582069824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60180/devtools/browser/4309b485-6520-4dbf-b4a0-397e30bc9cf4
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.01d123f7.js, line 1: HttpResponseError: 
+JavaScript error: https://open.spotifycdn.com/cdn/build/web-player/web-player.01d123f7.js, line 1: HttpResponseError: 
+1716582093732	Marionette	INFO	Stopped listening on port 60187
+JavaScript warning: https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js, line 1: Script terminated by timeout at:
+o@https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.257b4960.js:1:163316
+
+Dynamically enable window occlusion 1
