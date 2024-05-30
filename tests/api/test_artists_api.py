@@ -1,6 +1,6 @@
 import pytest
 
-from resources.constants.common_constants import SingerNameConstant, GenreConstant, SongConstant
+from resources.constants.common_constants import SingerName, Genre, Song
 from utils.provider import SpotifyProvider
 
 
@@ -9,8 +9,8 @@ class TestArtistsApi:
 
     @pytest.mark.parametrize("artist_name, artist_genre",
                              [
-                                 pytest.param(SingerNameConstant.DRAKE, GenreConstant.RAP),
-                                 pytest.param(SingerNameConstant.THE_BEATLES, GenreConstant.BRITISH_INVASION)
+                                 pytest.param(SingerName.DRAKE.value, Genre.RAP.value),
+                                 pytest.param(SingerName.THE_BEATLES.value, Genre.BRITISH_INVASION.value)
                              ])
     def test_check_artists_genre(self, artist_name: str, artist_genre: str):
         artists = self.provider.get_artist_by_name(artist_name=artist_name)
@@ -26,8 +26,8 @@ class TestArtistsApi:
 
     @pytest.mark.parametrize("artist_name, expected_song",
                              [
-                                 pytest.param(SingerNameConstant.DRAKE, SongConstant.ONE_DANCE),
-                                 pytest.param(SingerNameConstant.THE_BEATLES, SongConstant.HERE_COMES_THE_SUN)
+                                 pytest.param(SingerName.DRAKE.value, Song.ONE_DANCE.value),
+                                 pytest.param(SingerName.THE_BEATLES.value, Song.HERE_COMES_THE_SUN.value)
                              ])
     def test_check_artists_the_most_popular_song(self, artist_name: str, expected_song: str):
         artists = self.provider.get_artist_by_name(artist_name=artist_name)

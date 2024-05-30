@@ -1,13 +1,16 @@
-class GenreConstant:
-    BRITISH_INVASION: str = "british invasion"
-    RAP: str = "rap"
+from enum import Enum
 
 
-class SongConstant:
-    ONE_DANCE: str = "One Dance"
-    HERE_COMES_THE_SUN: str = "Here Comes The Sun - Remastered 2009"
+class Genre(Enum):
+    BRITISH_INVASION = "british invasion"
+    RAP = "rap"
 
 
-class SingerNameConstant:
-    DRAKE: str = "Drake"
-    THE_BEATLES: str = "The beatles"
+class Song(Enum):
+    ONE_DANCE = "One Dance"
+    HERE_COMES_THE_SUN = "Here Comes The Sun - Remastered 2009"
+
+
+class SingerName(Enum):
+    DRAKE = "Drake"
+    THE_BEATLES = "The Beatles"
